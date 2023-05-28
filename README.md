@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Expense Tracker ReactJs Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project you can add expeses and see it visually on chart.
 
 ## Available Scripts
 
